@@ -53,7 +53,7 @@
 
 <br />
 
-#### Coding Stats
+#### Coding Stats Per Hours
 
 <!--START_SECTION:waka-->
 ```text
