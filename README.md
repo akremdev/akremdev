@@ -57,10 +57,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-React       6 hrs 41 mins   █████████████░░░░░░░░░░░░   52.00 %
-CSS         2 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   20.00 % 
-Laravel     1 hr 50 mins    ██████░░░░░░░░░░░░░░░░░░░   15.00 % 
-Angular     1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+React       6 hrs 41 mins     52.00 %
+CSS         2 hrs 25 mins     20.00 % 
+Laravel     1 hr 50 mins      15.00 % 
+Angular     1 hr 20 mins      13.00 % 
 ```
 <!--END_SECTION:waka-->
 
