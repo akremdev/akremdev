@@ -49,7 +49,7 @@
 
 #### Pro Info
 - :paperclip: [My Resume/CV](https://github.com/akremdev/akremdev/blob/main/Akrem's%20Resume.pdf)
-- :email: akremdev@gmail.com
+- :email: akrem.gharbi@yoodev-it.tn
 
 <br />
 
