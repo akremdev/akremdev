@@ -68,7 +68,7 @@ Angular     1 hr 20 mins      13.00 %
 ### Github Stats
 
 
-<img align="left" alt="Akrem's GitHub Stats" src="https://github-stats.codestackr.vercel.app/api?username=akremdev&show_icons=true&theme=radical&hide_border=true" />
+[![Akrem's github stats](https://github-readme-stats.vercel.app/api?username=akremdev)](https://github.com/akremdev/github-readme-stats)
 
 
 
