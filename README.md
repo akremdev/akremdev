@@ -4,7 +4,7 @@
 
 
 
-## I'm a Full Stack Developer and Designer , I Spend most of time coding outstanding projects !
+## I'm a Full Stack Developer , I Spend most of time coding outstanding projects !
 
 - 🔭 I’m currently working on YooDev-IT
 - :computer: Most used line of code `git commit -m "Make it Better"`
